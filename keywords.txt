@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map pseudospectrum_plot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+spectrum	KEYWORD1	spectrum
+pseudospectrum	KEYWORD1	pseudospectrum
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+addSpectrum	KEYWORD2
+setAmount	KEYWORD2
+getValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
